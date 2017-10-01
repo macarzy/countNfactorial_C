@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506086274 source:c:\users\macarzy\desktop\programmer\countnfactorial_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
